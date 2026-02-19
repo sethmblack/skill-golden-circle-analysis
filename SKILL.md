@@ -3,7 +3,7 @@ name: golden-circle-analysis
 description: Guide organizations or individuals from WHAT they do through HOW they do it to discover their core purpose - their WHY.
 license: MIT
 metadata:
-  version: 1.0.4098
+  version: 1.0.4099
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
